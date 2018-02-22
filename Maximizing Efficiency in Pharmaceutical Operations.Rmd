@@ -1,0 +1,30 @@
+---
+title: "Pharmaceutical Operations"
+author: "Daniel Efaw"
+date: "2/21/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval = FALSE, include = FALSE)
+```
+
+Maximizing Efficiency in Pharmaceutical Operations
+
+
+The pharmaceutical industry has its own unique set of challenges when trying to maximize efficiency. One thing to keep in mind when considering this is that this industry has a set of challenges that are often overlooked. The best way to compare this is to look at the automotive industry. In automotives often a manufacturer has to go back to the drawing board and come up with new designs and delivery methods to maintain their status within the market place. It’s not saying that they completely redesign the supply chain side of the coin however often supply chains and operations are reviewed and optimized to maintain their edge in the industry. The pharmaceutical industry is no different in this regard. 
+
+	One way that pharmaceutical companies stay on the cutting edge in their field is by reviewing their operational system. When talking about the operational side of the system of the industry it is important to take into consideration all the aspects of the production line. The production line consists of 6 primary sections. The sections within the operational side of the coin as are follows; Start of production, formulation of the materials or medication in question, production of the pill or liquid, the packaging and finally the delivery of the final good. These are only overview of what actually occurs and there are much more in-depth actions within these categories.  
+	
+	Within these categories there are numerous processes that must be contended with. Much like with any other industry there has to be a revisit and reconsideration of the operational side of manufacturing. To achieve this one has to take into consideration how to best measure their production efficiency. The concept of an ongoing benchmarking process of increasing that productivity. For example, in many industries the benchmarking process is done on a yearly basis or even in some cases a monthly basis. For many industries that is acceptable for them. However, taking a deeper look into the idea leads the conclusion that the more often a system is measured and productivity is considered then adjustments can be made to the system to maximize performance. 
+	
+According to the article Maximizing Efficiency in Pharma Operations the benchmarking process is one of the key differences between the lower production and efficiency facilities and the higher ranking companies. One thing that really comes to point is that the more product that the company produces the higher percentage of efficiency that is apparent. This is in part an effect of the constant benchmarking and optimization. The increased operations allow for the company to review more data and to find better ways of reducing redundancies and increasing productivity. One interesting aspect of this is that during the assessment it was shown that low performers are less likely than high performers to use standardized measuring and control (Phillip Cremer, 2009). This means that the companies are more likely to experience increased waste and unplanned loss due to production stop.
+
+One other major aspect is the evolution of lean management. This very simply means that a reduction in the non-productive employees and a cut down in management streamlines processes. The issue here is very simply that an overabundance of management within the operational setting does little more than add buffers that slows down production. The speed of production is paramount when a company must respond to demand within a very short window or miss the opportunity. 
+
+The optimization of a pharmaceutical operation is a challenging yet unique process. Although the industry enjoys a lack of certain challenges faced in others it still has its own set. The standardization of the production measurements and the streamlining of management is paramount. This helps to reduce unnecessary waste and to limit if not eliminate the red tape that often keeps production from reaching its goals.
+
+References
+Phillip Cremer, M. L. (2009, April 1). Maximizing efficiency in pharma operations. McKinsey & Company.
+
+
