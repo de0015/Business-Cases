@@ -1,0 +1,56 @@
+---
+title: "HP Case Study"
+author: "Daniel Efaw"
+date: "2/22/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+HP Marketing Improvement
+
+Opportunity
+
+Hewlett-Packard company has been a staple provider of consumer electronics since 1938. Since their inception they have strived for a position in the market place by providing technology to their customers. In more recent years though HP has been struggling in a few sectors of the market. Those sectors being the movement into the cloud computing market and the mobile market. The biggest lagging sector being the mobile market.
+
+HP has a bit of history within the mobile marketplace. As early as 1998 entered the mobile market with their first PDA (Hewlett-Packard, 2015). Early on HP carried a significant advantage with devices such as the PDA and even some early PDA/Phone combinations such as the IPAQ™. However, after this HP slowly withdrew from this market and focused on what made the money at the time and that being the personal computing market. The opportunity lies in the fact that the mobile sector of the market continues to grow exponentially. 
+	
+According to Fortune mobile sales have grown over 700 million since 2012 (Fortune, 2015). This would mean that given the correct incentives in the mobile market HP could reinvent themselves and take a piece of the pie on the consumer market place. This also ties into the expansion of HP’s cloud services that is already underway as part of HP Enterprise. If HP can tie a new mobile device in with a cloud based system for the consumer marketplace, then it can compete in the consumer mobile market.
+
+HP’s revenue primarily relies on the personal computing market. According to HP over 50% of their yearly revenue is from computing and printing solutions. This by all logic would be the primary focus of the company since it is such a large portion of profits. However, like previously mentioned by Fortune the growth of mobile devices and demand for mobile services continues to grow at a fast pace. According to Forbes by 2017 87% of all new device sales will be smartphone and tablet sales (Forbes, 2013). This means that mobile devices will far outweigh the sales of the PC market. Companies such as Google and Apple have cornered the market as of this far. 
+
+Recommended Solution
+
+The recommended solution is to take a new approach to the mobile market for HP. The split between HP Inc. and HP Enterprise gives a great opportunity for expansion into the new market. The example that comes to mind is that with HP investing in cloud computing for the bigger data market for businesses they could use the same technology to parallel Apple. 
+	
+HP has several products across several lines that if tied together in a cloud based solution could potentially open new doors. One item that comes to mind is that Apple markets themselves with a one stop shop for their mobile users.
+
+Take the IPhone for example. A user can use the IPhone and save their photos to an apple account in which can be accessed through ICloud. This also allows users to subsequently lean towards buying a Mac from Apple to tie everything together. This gives Apple an advantage that keeps profit margins high.
+	
+Now take this same example and relate it to HP. HP has the services in which they could with some reconfiguration offer this. Their service known as Snapfish™ is offered as a proprietary photo storage service. If HP were to reinvest and research and development of the mobile market it would allow them to compete with the likes of Microsoft’s one drive and ICloud. 
+ 
+While taking all this into account HP already has a large portion of the consumer electronics market when it comes to the PC market. The intensive market coverage would allow them to piggyback the HP brand into a new market by extending the brand itself. Previously the company struggled with the tablet and mobile market. 
+
+Price and Promotional changes
+
+Amongst the reinvestment in the development of smartphone and tablet markets it would be beneficial if HP were to reinvest in their approach to the modern smartphone user. Much of smartphone and tablet sales are driven by their functionality and convenience. Apple products are sold on the premise of “They just work” (Synder, 2015).
+	
+This approach takes much of the user input and configuration out of the equation. This means that a user can buy the product, turn it on and immediately see an increase in production. Googles Android platform has also take the same approach. However, Android is somewhat more configurable from the user side of things. HP could benefit from taking a cue from the two largest smartphone systems and look at both total integration and productivity.
+ 
+As for the concept of pricing. To remain competitive in the already saturated marketplace HP would have to stay within the $200-$500 range. That would mean keeping the phones at roughly the same price that many are used to seeing on an HP product. This type of pricing would be beneficial at the outset of the market penetration by allowing users to associate HP quality with a new smartphone.
+
+As for promotional side changes. HP’s best option would be to approach things as a “Total Package” type of deal. Specifically speaking the best approach would be to allow free and paid storage as a way of providing cross platform storage within HP products.
+
+Conclusion
+HP’s position in the global market gives it opportunities that have yet to be seized. If HP were to reinvent their approach to the mobile market they will bridge the gap between PC sales and the mobile sales. This is vital to the growth and sustainability of HP. The decline in PC sales and the culture change from desktops to cloud and mobile computing means that HP must either change with the times or risk losing a chance of expanding their coverage in the computing market.
+
+
+References
+Forbes. (2013, Sept 12). IDC: 87% Of Connected Devices Sales By 2017 Will Be Tablets And Smartphones. Retrieved from Forbes.com: http://www.forbes.com/sites/louiscolumbus/2013/09/12/idc-87-of-connected-devices-by-2017-will-be-tablets-and-smartphones/
+Fortune. (2015, June 15). What's driving growth in developing markets? Mobile devices (with a little help from the cloud). Retrieved from Fortune: http://fortune.com/2015/06/15/mobile-devices-and-cloud/
+Hewlett-Packard. (2015). Timeline of our History. Retrieved from HP.com: http://www8.hp.com/us/en/hp-information/about-hp/history/hp-timeline/timeline.html
+Synder, B. (2015, January 22). ‘It just works’? Not so for too many Apple users. Retrieved from InfoWorld: http://www.infoworld.com/article/2873356/applications/for-too-many-apple-users-it-doesnt-just-work.html
+
+
