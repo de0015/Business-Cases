@@ -1,0 +1,29 @@
+---
+title: "Price Rounding"
+author: "Daniel Efaw"
+date: "2/28/2018"
+output: html_document
+---
+
+Price Rounding
+The concept of price rounding is a staple idea when it comes to marketing. The concept has been in practice for quite some time. The idea rests on the simple idea of when you price an item a certain way then you are more likely to spark a response by the consumer. This idea is based on a couple of factors that play into consumer choices to buy into an item. Those factors include perceived affordability, convenience, and impulse buying. 
+
+	The basis in which this study is derived lays squarely on the idea of behavioral pricing. To put this in simple terms the price of an item has two primary functions. The first function being obviously the perceived value of the item to the consumer. The second being a little less obvious and being a key point in convincing the consumer to buy the product. The first part of this equation rests on the consumer’s value of the item.
+	
+	The perceived value and the convenience of an item often go hand in hand. A very prominent example of this would be the chain Walmart. The concept of convenience is something that has become much more of a factor in the last few decades. According to the study Americans are increasingly more encumbered with work-life conflicts. Specifically speaking one-third of all employees are chronically overworked. In addition to this 52% report work-life conflicts. This means that consumers are seeking more along the lines of convenience and are willing to pay a little extra when it comes to the availability of items. This has also extended itself into E-commerce market such as Amazon or others. This is not to say that there is an overcharge intentionally however convenience plays a major role in the system.
+	
+One item within the convenience section that is taken into account is the ability to minimize a buyer’s moment of pause or remorse before they buy an item. For example when this force is in play and being harnessed the item is very easily bought with minimal interaction. When it comes to pricing this is where whole numbered pricing comes into play. A whole numbered price such as 1.00 versus $.99 means that the consumer can pay with a single bill instead of coins associated with it. This may seem like a small thing to take into account however the buyer sees this as a simpler and much smoother transaction and is less likely to reconsider their purchase. This is supported by the study done by 2005 that brought to light that cognitive processes are time consuming and are taxing on the brain (UC Berkely, 2005). This means that if a company prices an item on an even number the buyer does not have to consider adding additional currency and can quite simply hand over the exact amount without any real cognitive function involved in the transaction. This also goes hand in hand with the concept that in theory the buyer does not have to wait for any change and hence increase the convenience of the transaction.
+	
+One aspect that is often misunderstood however is the just under pricing scheme. Take for example if a buyer were interested in buying a candy bar. There are many locations in which a candy bar is often sold at just under pricing such as .99 cents of even 1.99. This type of pricing as a rather interesting effect on the psychological side of the consumer. An example of this would be when someone goes to buy the same candy bar and the buyers two favored brands are priced at .99 and 1.00. The interesting part of this is that subconsciously the buyer who is price sensitive is much more likely to invest in the .99 cent candy bar instead of the $1.00. Now many would look at this and question when they are within a single penny of each other what is the major difference? This stems primarily from the human psychological condition in which when a person sees the prices they actually perceive something much more drastic.
+
+According to the study when a person sees a price such as .99, they often remember the numbers to the left instead of the whole number. A very prominent example of this is in the car sales industry. Often when a car sales representative prices a vehicle he prices it at a just under price such as 13,999.  When the customer is later recalling the prices that he or she saw on the vehicle they liked they remember the price as “13 something” and not the real price of $14,000.  This allows the seller to have already gained a position within the buyers mind without even putting individualized attention into the mix.
+
+The study done by Schons, Kolberg and Wieseke highlights the power of price rounding and how it affects a consumer’s thought process and subsequently their buying choices. One other item that seems to play on both of these pricing schemes is the idea of the impulse buy. When an item is competitively placed such as a $9.99 set of earphones at the checkout at a store this is to enhance the chance of an impulse buy. This marries the concept of price rounding and the convenient placement of an item to maximize the chance of an additional buy. 
+
+The idea of price rounding is only recently being understood and its effects on a buyers choices. This means that more often than not how an item is priced (just under or rounded up) has a serious impact on how a seller does business. The single cent difference could in theory have a significant impact on both sales and how the consumer perceives the seller itself. 
+
+References
+Laura Schons, A. K. (2015). Life could be so easy: The convenience effect or round price endings. Acadenua.
+UC Berkely. (2005). Psychology. Retrieved from UC Berkely: http://psychology.berkeley.edu/people/philip-cowan
+
+
